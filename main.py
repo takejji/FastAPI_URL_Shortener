@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 
-from schemas import GeneratorUrl
 from routes import routes
 
 
